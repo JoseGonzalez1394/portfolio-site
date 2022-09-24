@@ -10,7 +10,7 @@
         }
         
       ],
-      "image": "profile.jpg"
+      "image": "./profile.jpg"
     },
     "skills": {
       "icons": [
