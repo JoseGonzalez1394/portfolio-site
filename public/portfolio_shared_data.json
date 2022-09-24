@@ -1,20 +1,16 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
-      "titles": [ "Software Developer" ],
+      "name": "Jose A Gonzalez: Dev 🎸🌯",
+      "titles": [ "Jose A Gonzalez|Software Development Student | Actively Looking for Software Developer Opportunities |Team Leader | Transitioning Army Active Duty Soldier | Secret Clearance" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/JoseGonzalez1394",
           "class": "fab fa-github"
-        },
-        {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
         }
+        
       ],
-      "image": "myProfile.jpg"
+      "image": "profile.jpg"
     },
     "skills": {
       "icons": [
@@ -28,16 +24,7 @@
           "class": "devicon-css3-plain",
           "level": "95"
         },
-        {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
-          "level": "80"
-        },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
+      
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
@@ -52,16 +39,6 @@
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",
           "level": "85"
-        },
-        {
-          "name": "C#",
-          "class": "devicon-csharp-plain",
-          "level": "65"
-        },
-        {
-          "name": "MySql",
-          "class": "devicon-mysql-plain",
-          "level": "60"
         }
       ]
     }

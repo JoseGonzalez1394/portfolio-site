@@ -1,7 +1,7 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description_header": "Dev",
+      "description": " I'm Jose A Gonzalez. I am a bilingual California native transitioning from the Army actively looking to pivot careers from healthcare to software development. I have about 10 years of healthcare experience in both the Army and Civilian sector ranging from managing military and civilian staff in a clinic setting to maintaining competency in medical documentation programs. License in Vocational Nursing obtained through an accelerated and multidisciplined 52 week U.S Army Program. I am a team leader that emphasis on clear, open minded communication, respect and constructive feedback on any subject. Skills and accomplishments that set me apart are my interpersonal and critical thinking skills that have lead to opportunities in leading individuals in projects and attending military schools to advance my skills in nursing and leadership. My exposure to software development is minimal but my interest has highly grown through the pandemic with the emphasis on computer communication and interaction and currently enrolled with Code Fellows, completing the basic coding/Java boot camp with and expected graduation in the fall of 2022.. I know my resiliency, open mindedness and teamwork experience in the military and health care field make me an exceptional candidate in contributing in any software development opportunity.",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,43 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "Flappy Push",
+        "startDate": "Jul 2022",
+        "description": "Flappy Bird clone with a Git Hub ACP twist",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/flappyBird/git push high score.png"
         ],
-        "url": "",
+        "url": "https://tribe-scary.github.io/201-project/",
         "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
@@ -55,63 +26,68 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "Reading Notes",
+        "startDate": "JUN 2022",
+        "description": "Reading Notes from Code Fellows Software Developer Full Stack Course",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
+          "images/portfolio/readingNotes/reading notes obi wan kenobi .png"
         ],
-        "url": "https://github.com",
+        "url": "https://josegonzalez1394.github.io/reading-notes/",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Odd Duck",
+        "startDate": "Jul 2022",
+        "description": "Project from Code Fellows exploring product survey for potential client",
+        "images": [
+          "images/portfolio/oddDuck/odd duck.png"
+        ],
+        "url": "https://josegonzalez1394.github.io/odd-duck/",
+        "technologies": [
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Code Fellows",
+        "title": "Full Stack Developer Student",
+        "years": "06.2022 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "Canvas 06/04/2022"
         ],
         "technologies": [
           "REST API",
           "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "MDBootstrap", 
+          "CSS", 
+          "HTML", 
+          "JS"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "Army",
+        "title": "Dialysis LVN",
+        "years": "11.2013 - 05.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Hosptial"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "FT Jackson",
+          "FT Leonard Wood", 
+          "FT Sam Houston", 
+          "Walter Reed", 
+          "FT Gordon"
         ]
       }
     ]
