@@ -7,8 +7,12 @@
           "name": "github",
           "url": "https://github.com/JoseGonzalez1394",
           "class": "fab fa-github"
+        }, 
+        {
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/jose-armando-gonzalez/",
+          "class": "fab fa-linkedin"
         }
-        
       ],
       "image": "./profile.jpg"
     },
